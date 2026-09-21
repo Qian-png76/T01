@@ -140,5 +140,9 @@ footer {
 }
 
 .conclusion h2 {
+  color: #f4a261;
+}
+
+.conclusion p {
   color: white;
 }
