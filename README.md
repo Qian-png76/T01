@@ -46,7 +46,7 @@ The website answers 6 key questions based on an Australian Government dataset on
 *   `chart1.png` to `chart6.png` - Visualisations generated from KNIME
 
 ## How to Run Locally
-1. Clone this repository: `git clone <your-repo-url>`
+1. Clone this repository: `git clone <https://github.com/Qian-png76/T01.git>`
 2. Open the folder in Visual Studio Code.
 3. Open `index.html` in your web browser (or use Live Server extension).
 
