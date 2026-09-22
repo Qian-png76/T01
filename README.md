@@ -4,7 +4,7 @@ An interactive web application built for the **COS30045 Data Visualisation** uni
 
 ##  Live Demo
 **[View the Live Website on Vercel](https://t01-beryl.vercel.app/televisions.html )**
-*(Replace the link above with your actual Vercel deployment link)*
+
 
 ##  Target Audience (T03)
 Based on the storyboard created in Miro, the target audience for this website is:
