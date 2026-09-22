@@ -47,9 +47,9 @@ nav a:hover {
   transform: scale(1.05);
 }
 
-/* Active page feedback (uses JavaScript to add this class) */
+/* Active page feedback */
 nav a.active {
-  background-color: #e9c46a; /* Bright gold/yellow accent */
+  background-color: #e9c46a;
   color: #0d3b3e;
   font-weight: bold;
   border: 2px solid #f4a261;
