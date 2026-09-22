@@ -6,13 +6,13 @@ An interactive web application built for the **COS30045 Data Visualisation** uni
 **[View the Live Website on Vercel](https://t01-beryl.vercel.app/televisions.html )**
 
 
-##  Target Audience (T03)
+##  Target Audience
 Based on the storyboard created in Miro, the target audience for this website is:
 *   **Australian consumers** looking to buy a new TV.
 *   They want **affordable, energy-efficient, and good-sized TVs**.
 *   They prefer **simple visual insights** over technical detail.
 
-##  Data Story & Key Insights (T03)
+##  Data Story & Key Insights
 The website answers 6 key questions based on an Australian Government dataset on TV energy use:
 
 1.  **What TV screen technologies are available?** 
